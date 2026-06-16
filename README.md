@@ -8,3 +8,5 @@ This is an example of a text
 * item 2
 
 ***
+
+<p><img src="https://github.com/clizarraga-UAD7/AICampusChampions/blob/main/images/GithubFileOrgExampleN.png">
