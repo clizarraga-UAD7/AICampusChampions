@@ -1,17 +1,5 @@
 # AI Campus Champions
-Repository for digital products for Summer 2026\
+Repository for digital products for Summer 2026 UofA AI Campus Champions
 
-## Section 1
-This is an example of a text
-
-* item 1
-* item 2
-
-***
-
-<p><img src="https://github.com/clizarraga-UAD7/AICampusChampions/blob/main/images/GithubFileOrgExampleN.png">
-
-or use Markdown
-
-![](https://github.com/clizarraga-UAD7/AICampusChampions/blob/main/images/GithubFileOrgExampleN.png)
+**All documents and information are in the [Wiki section](https://github.com/clizarraga-UAD7/AICampusChampions/wiki).**
 
